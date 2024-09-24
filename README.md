@@ -1,6 +1,6 @@
 # 🌎  Países Sul Americanos Quiz
 
-This is a quiz game about the latin american countries created with python programming language.
+This is a quiz game about the south american countries created with python programming language.
 
 ## ⚙️ Used Languages
 
